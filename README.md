@@ -12,16 +12,12 @@ TODO: Write a gem description
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rake-benchlog'
+gem 'rake-benchlog', github: 'iyuuya/rake-benchlog'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install rake-benchlog
 
 ## Usage
 
